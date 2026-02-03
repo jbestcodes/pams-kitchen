@@ -41,7 +41,7 @@ const Footer = () => {
                 <Instagram size={24} />
               </a>
               <a
-                href="https://wa.me/254722858272"
+                href="https://wa.me/254784230406"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-green-500 transition-colors"
@@ -67,7 +67,7 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-gray-300">
-              <p>WhatsApp: 0722858272</p>
+              <p>WhatsApp: 0784230406</p>
               <p>Location: Nairobi, Kenya</p>
               <p>Community: Let's Cook Kenyan Meals</p>
             </div>
@@ -76,8 +76,14 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2026 Pam's Food Factory. All rights reserved.
+            © 2026 Pam's Food Factory. All rights reserved. Developed by {""}
+            <a
+            href="https://julieadul.site"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline">Julie Adul</a>
           </p>
+
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link to="/privacy" className="text-gray-400 hover:text-orange-400 text-sm transition-colors">
               Privacy Policy

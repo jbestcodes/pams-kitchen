@@ -8,16 +8,16 @@ export default function Contact() {
       icon: <MessageCircle className="w-8 h-8 text-green-500" />,
       title: "WhatsApp",
       description: "Quick orders and inquiries",
-      contact: "0722858272",
-      action: "https://wa.me/254722858272",
+      contact: "0784230406",
+      action: "https://wa.me/254784230406",
       actionText: "Message Us"
     },
     {
       icon: <Phone className="w-8 h-8 text-blue-500" />,
       title: "Phone",
       description: "Call us directly",
-      contact: "0722858272",
-      action: "tel:+254722858272",
+      contact: "0784230406",
+      action: "tel:+254784230406",
       actionText: "Call Now"
     },
     {
@@ -102,7 +102,7 @@ export default function Contact() {
                 Orders are fulfilled via WhatsApp for quick and personal service
               </p>
               <a
-                href="https://wa.me/254722858272?text=Hi%20Pam%2C%20I%27d%20like%20to%20order%2Frequest%20food%20from%20Pam%27s%20Food%20Factory.%20Details%3A%20"
+                href="https://wa.me/254784230406?text=Hi%20julie%2C%20I%27d%20like%20to%20order%2Frequest%20website%20like%20this%27s%20Food%20Factory.%20Details%3A%20"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white text-green-600 hover:bg-gray-100 px-8 py-3 rounded-lg font-semibold transition-colors duration-200 inline-flex items-center space-x-2"
@@ -153,7 +153,7 @@ export default function Contact() {
                 cooking tips, and celebrate the rich flavors of Kenyan cuisine together.
               </p>
               <a
-                href="https://wa.me/254722858272?text=Hi%20Pam%2C%20I%27d%20like%20to%20join%20the%20Let%27s%20Cook%20Kenyan%20Meals%20community!"
+                href="https://wa.me/254784230406?text=Hi%20Pam%2C%20I%27d%20like%20to%20join%20the%20Let%27s%20Cook%20Kenyan%20Meals%20community!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors duration-200"

@@ -26,8 +26,8 @@ const Header = () => {
               <span className="text-white font-bold text-lg">P</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Pam's Food Factory</h1>
-              <p className="text-xs text-orange-600">Spice Land</p>
+              <h1 className="text-xl font-bold text-gray-900">Pam's Food House</h1>
+              <p className="text-xs text-orange-600">Spice Farm</p>
             </div>
           </Link>
 
